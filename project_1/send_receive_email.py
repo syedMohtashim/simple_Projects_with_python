@@ -1,9 +1,9 @@
 # In this project we will send and receive emails , using G-mail
 # 12:04--> continue from here
 import smtplib
-username = 'venomus.pubg@gmail.com'
-password = 'pandorakaaki'
-def send_mail(text = 'Email Body' , subject = 'This is the mail subject' , receiver_mail = [] , sender_mail = 'venomus.pubg@gmail.com'):
+username = '*********'
+password = '**********'
+def send_mail(text = 'Email Body' , subject = 'This is the mail subject' , receiver_mail = [] , sender_mail = '*****'):
     #isinstance() will check if a given object or a variable is of a certain type.
     #If the condition is true, it does nothing and your program just continues to execute. 
     # But if the assert condition evaluates to false, 
