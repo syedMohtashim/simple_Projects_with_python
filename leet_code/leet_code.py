@@ -7,11 +7,4 @@ def is_power(num):
             return print(False)
         num = num//4
     return print(True)
-    # if(num == 0):
-    #    return print(False)
-    # while(num!=1):
-    #     if(num%4!=0):
-    #         return print(False) 
-    #     num = num//4
-    # return print(True)
 is_power(4)
